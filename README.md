@@ -1,6 +1,3 @@
-Sure! I'll update the `README.md` with the Avalanche Fuji network setup for MetaMask.
-
----
 
 # Degen Token & Game NFT Website
 
@@ -150,7 +147,3 @@ This project is licensed under the MIT License.
 - [OpenZeppelin](https://openzeppelin.com/contracts/) for providing secure smart contract libraries.
 - [Remix IDE](https://remix.ethereum.org/) for smart contract development and deployment.
 - [Avalanche](https://www.avax.network/) for providing a scalable blockchain network.
-
----
-
-This `README.md` now includes the Avalanche Fuji Testnet setup for MetaMask as well as more detailed explanations of the smart contracts. Let me know if you need any further adjustments!
